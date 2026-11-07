@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/renanmarx), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-11-07 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-11-01 |
 
 <!-- datadriven:index:end -->
