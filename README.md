@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/renanmarx), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User 360](./practice/sql/user-360) | SQL | Hard | 2026-11-25 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-11-25 |
 | [The High and the Low](./practice/sql/the-high-and-the-low) | SQL | Hard | 2026-11-07 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-11-07 |
